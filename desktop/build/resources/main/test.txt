@@ -1,0 +1,19 @@
+test.png
+size: 96, 48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cherries
+  rotate: false
+  xy: 0, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+orange
+  rotate: false
+  xy: 48, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

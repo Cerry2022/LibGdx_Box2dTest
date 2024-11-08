@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/build/intermediates/compressed_assets/debug/out/assets/test.txt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/build/intermediates/compressed_assets/debug/out/assets/test.png.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
